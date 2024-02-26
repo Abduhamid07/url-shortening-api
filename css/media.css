@@ -1,0 +1,110 @@
+@media (max-width: 1200px){
+    .header {
+        margin: auto;
+        max-width: 375px;
+        width: 100%;
+    }
+    .main {
+        margin: auto;
+        max-width: 375px;
+        width: 100%;
+    }
+    .header {
+    }
+    .container {
+        padding: unset;
+        padding: 0 24px;
+    }
+    .navbar {
+    }
+    .container-fluid {
+    }
+    .navbar-brand {
+    }
+    .navbar-collapse {
+    }
+    .navbar-nav {
+    }
+    .me-auto {
+    }
+    .nav-item {
+    }
+    .nav-link {
+    }
+    .header-nav__right {
+    }
+    .header-btn {
+    }
+    .all-btn {
+    }
+    .main {
+    }
+    .about {
+    }
+    .texts {
+    }
+    .d-flex {
+    }
+    .about-left {
+    }
+    .about-left__title {
+    }
+    .about-left__text {
+    }
+    .about-left__button {
+    }
+    .about-image {
+    }
+    .forms {
+    }
+    .form-control {
+    }
+    .col-4 {
+    }
+    .col-3 {
+    }
+    .forms-button {
+    }
+    .statistics {
+    }
+    .center {
+    }
+    .statistics-title {
+    }
+    .statistics-text {
+    }
+    .statistics-cards {
+        display: flex;
+        flex-direction: column;
+    }
+    .statistics-card {
+    }
+    .statistics-card__brand {
+    }
+    .statistics-card__title {
+    }
+    .statistics-card__text {
+    }
+    .statistics-content {
+    }
+    .statistics-content__title {
+    }
+    .statistics-content__button {
+    }
+    .footer {
+    }
+    .two {
+    }
+    .footer-site-about {
+    }
+    .footer-about__links {
+    }
+    .about-links__titie {
+    }
+    .about-items {
+    }
+    .about-list {
+    }
+    .about-link {
+    }
+}
